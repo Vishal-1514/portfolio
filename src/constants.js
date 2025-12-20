@@ -54,6 +54,8 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
+import Tic from './assets/work_logo/Tic.png'
+import Todo from './assets/work_logo/Todo.png'
 
 
 export const SkillsInfo = [
@@ -298,5 +300,25 @@ export const SkillsInfo = [
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
       github: "https://github.com/codingmastr/Image-Background-Remover",
       webapp: "https://removeyourbg.netlify.app/",
+    },
+    {
+      id: 9,
+      title: "Tic-Tac-Toe Game",
+      description:
+        "Tic-Tac-Toe Game",
+      image: Tic,
+      tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
+      github: "https://github.com/Vishal-1514/tic-tac-toe",
+      webapp: "https://tic-tac-toe-cekg.vercel.app/",
+    },
+    {
+      id: 10,
+      title: "ToDo List App",
+      description:
+        "Manage your time",
+      image: Todo,
+      tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
+      github: "https://github.com/Vishal-1514/Todo-List",
+      webapp: "https://todo-list-psi-umber-80.vercel.app/",
     },
   ];  
