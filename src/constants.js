@@ -228,8 +228,8 @@ export const SkillsInfo = [
         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://csprep.netlify.app/",
+      github: "https://github.com/Vishal-1514/Quiz-app",
+      webapp: "https://quiz-app-7psv.vercel.app/",
     },
     {
       id: 2,
@@ -320,5 +320,15 @@ export const SkillsInfo = [
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
       github: "https://github.com/Vishal-1514/Todo-List",
       webapp: "https://todo-list-psi-umber-80.vercel.app/",
+    },
+    {
+      id: 10,
+      title: "Crypto Tracker",
+      description:
+        "A responsive web app that lets you track cryptocurrency prices, ranks, and market stats in real time. Built with React and powered by the CoinGecko API, it provides up-to-date data on top coins and global market trends.",
+      image: Todo,
+      tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
+      github: "https://github.com/Vishal-1514/CRYPTO/tree/main/src",
+      webapp: "https://crypto-delta-azure.vercel.app/",
     },
   ];  
