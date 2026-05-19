@@ -56,6 +56,7 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import Tic from './assets/work_logo/Tic.png'
 import Todo from './assets/work_logo/Todo.png'
+import cc from './assets/work_logo/cc.png'
 
 
 export const SkillsInfo = [
@@ -326,7 +327,7 @@ export const SkillsInfo = [
       title: "Crypto Tracker",
       description:
         "A responsive web app that lets you track cryptocurrency prices, ranks, and market stats in real time. Built with React and powered by the CoinGecko API, it provides up-to-date data on top coins and global market trends.",
-      image: Todo,
+      image: cc,
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
       github: "https://github.com/Vishal-1514/CRYPTO/tree/main/src",
       webapp: "https://crypto-delta-azure.vercel.app/",
